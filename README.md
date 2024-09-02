@@ -1,0 +1,2 @@
+# Number_generator
+ The Number Generator is a simple web application that generates a sequence of numbers based on user input. Users can input a number to specify how many numbers they want to generate. The application then displays the numbers, differentiating between prime numbers, even numbers, and odd numbers using different colors. This project is perfect for practicing basic JavaScript concepts, especially DOM manipulation, conditional logic, and event handling.
