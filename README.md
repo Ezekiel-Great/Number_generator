@@ -18,7 +18,7 @@
 The **Number Generator** is a simple web-based application that allows users to generate a sequence of numbers based on their input. The application provides visual feedback by color-coding the numbers: red for prime numbers, green for even numbers, and yellow for odd numbers. This tool is especially useful for anyone looking to understand the basics of JavaScript, DOM manipulation, and CSS styling.
 
 ## Live site
-live site at -[url](#https://ezekiel-great.github.io/Number_generator/)
+live site at - [url](#https://ezekiel-great.github.io/Number_generator/)
 
 ## Features
 
